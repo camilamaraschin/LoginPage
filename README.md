@@ -5,5 +5,5 @@
 Criação de uma Pagina de Login com verficação utilizando o JS. Ao colocar os dados corretos apresenta um Alert escrito "Bem vindos",
 com os dados errados apresenta um Alert "Acesso Negado!". A pagina também se encontra em responsivo.
 
-Usuário: admin
+Usuário: admin<br>
 Senha: admin
